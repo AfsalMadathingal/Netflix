@@ -11,7 +11,7 @@ body
 height: 710px;
 width: 100%;
 
-background-image:linear-gradient( rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('images/edited.jpg');
+background-image:linear-gradient( rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('edited.jpg');
 
 
 }
